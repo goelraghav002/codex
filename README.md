@@ -1,0 +1,2 @@
+# codex
+ChatGPT-Clone is a conversational AI model developed using OpenAI API. It is a clone of the original OpenAI GPT-3 language model, designed to provide human-like text generation and conversation capabilities. This model is trained on a vast corpus of text data and can respond to questions, complete sentences, summarize text, and engage in casual conversation with users. With its cutting-edge natural language processing capabilities, ChatGPT-Clone can help businesses automate customer support, enhance user engagement, and streamline communication processes.
